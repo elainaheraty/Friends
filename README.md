@@ -11,12 +11,7 @@ Here's a sample friendship graph:
                           |                 |             |
                           |                 |             |
                      (kaitlin,rutgers)   (samir)----(aparna,rutgers)
-                          |                            |
-                          |                            |
-  (ming,penn state)----(nick,penn state)----(ricardo,penn state)
-                          |
-                          |
-                     (heather,penn state)
+ 
 
 
                    (michele,cornell)----(rachel)     
